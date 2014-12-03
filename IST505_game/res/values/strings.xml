@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Breathing Habit</string>
+    <string name="action_settings">Settings</string>
+  
+    
+    
+
+
+    <string name="phone_label">Please enter your 10 digit phone number</string>
+    <string name="button_phone_label">Submit</string>	
+    <string name="title_section1">Stress</string>
+    <string name="title_section2">Chart</string>
+    <string name="title_section3">About</string>
+        <string name="stress_button">Stressed</string>
+        <string name="inhale1"> Press and Inhale for 3 seconds</string>
+           <string name="exhale1"> Exhale for 3 seconds</string>
+             <string name="instruction_label"> This app is to reduce your stress using breathing excercise. You will be directed to inhale and exhale for three seconds. At every inhle or exhale, you press the button and see how your lung change from blue to red. When you do the excercise correctly, you will be rewarded with badges. Please check the chart to see how your breathing habit is improving.
+             </string>
+    
+
+</resources>
